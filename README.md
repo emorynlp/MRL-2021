@@ -41,7 +41,7 @@
   ]
   ~~~
 
-  
+- URL for the train set will be updated SOON.
 
 ### Statistics
 
